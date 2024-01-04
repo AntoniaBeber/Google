@@ -1,0 +1,76 @@
+   html{
+    background-color: #202124;
+   }
+   
+   h1{
+        font-size: 70px;
+        color: white;
+        text-align: center;
+        margin-top: 150px;
+
+
+    }
+
+    .bar   {
+        display: flex;
+        align-items: center;
+        position: relative;
+        
+    }
+
+   button{
+    background-color: transparent;
+    border: none;
+   }
+
+   .magnifying{
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: -5px;
+    height: 46px;
+    
+    
+   }
+
+   .keybord{
+    position: relative;
+        }
+
+    .microphone{
+    }    
+
+    .camera{
+
+    }
+
+    input{
+        background-color: transparent;
+       border-radius: 11px;
+       border: 1px solid #bdc1c6;
+    }
+
+    .first{
+        background-color: #303134;
+        border: #303134;
+        padding: 8px;
+        border-radius: 4px;
+        text-align: center;
+        color:#bdc1c6 ;
+        gap: 20px;
+        font-size: 14px;
+    }
+
+    .second{
+        background-color: #303134;
+        border: #303134;
+        padding: 8px;
+        border-radius: 4px;
+        text-align: center;
+        color:#bdc1c6 ;
+        
+        font-size: 14px;
+        
+
+    }
